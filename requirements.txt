@@ -1,1 +1,9 @@
 streamlit
+langchain_openai
+langchain
+langchain_community
+wikipedia
+unstructured
+unstructured[docx]
+unstructured[pdf]
+opencv-python-headless
